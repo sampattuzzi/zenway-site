@@ -28,6 +28,16 @@ p{
 
 }
 
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6, .dark a
+{
+	color: white;
+}
+
+.dark p 
+{
+	color: #dddddd;
+}
+
 .btn{
 	font-family: 'Montserrat', sans-serif;
 	font-size: 0.707em;
@@ -309,12 +319,16 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 	margin: 0 auto;
 }
 .subscription-form .form-control{
-	border-radius: 50px;
+	border-radius: 10px;
 	margin-bottom: 25px;
 	margin-top: 25px;
 	height: 40px;
 }
-.newsletter{
+.subscription-form textarea.form-control{
+	height:auto;
+}
+
+.contact-form{
 	background-color: #f1f6fa
 }
 
@@ -343,6 +357,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 }
 .logo-colored,.logo-white{
 	display: inline-block;
+	vertical-align: middle;
     font-size: 28px;
     font-weight: 600;
     text-transform: uppercase;
@@ -409,6 +424,13 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 .text-center{
 	text-align: center;
 }
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .row.vertical-align {
+        display: flex;
+        align-items: center;
+    }
+}
 .shrink-wrapped-center{
 	width: max-content; 
 	margin: auto;
@@ -444,9 +466,6 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 }
 .overflow-x-hidden{
 	overflow-x: hidden;
-}
-.text-white{
-	color: #fff;
 }
 .bg-fit{
 	background-repeat: no-repeat !important;
@@ -596,7 +615,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
     font-size: 28px;
 }
 /*******************************************OVERLAY*************************************************/
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .sm-padding-top-bottom-50-75 {
         padding-top: 50px;
         padding-bottom: 75px;
