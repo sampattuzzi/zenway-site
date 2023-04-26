@@ -135,6 +135,12 @@ p{
     background-color: #286090;
     border-color: #122b40;
 }
+/*******************************************NAVBAR***************************************************/
+.navbar .navbar-container {
+	display: flex;
+	justify-content: space-between;
+
+}
 /*******************************************HEADER***************************************************/
 header{
 	background-color: #b7b7b7;
@@ -314,10 +320,14 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 .subscription-wraper p{
 	color: #5a5a5a;
 }
-.subscription-form .form-group{
-	width: 65%;
-	margin: 0 auto;
+
+@media (min-width: 768px) {
+	.subscription-form .form-group{
+		width: 65%;
+		margin: 0 auto;
+	}
 }
+
 .subscription-form .form-control{
 	border-radius: 10px;
 	margin-bottom: 25px;
@@ -432,7 +442,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
     }
 }
 .shrink-wrapped-center{
-	width: max-content; 
+	width: fit-content; 
 	margin: auto;
 	padding: 20px
 }
