@@ -155,6 +155,16 @@ header{
 	display: block;
 }
 /*******************************************SLIDER HOME***************************************************/
+.bg-hero {
+	background: url(../images/hero.png); 
+	background-color: rgb(44, 44, 44);
+	background-position-y: bottom;
+	background-position-x: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+	padding-bottom: calc(100vw * .20)
+}
+
 .sliding-card-with-bottom-image .image-container img{
 	position: relative;
     margin: 0 auto;
@@ -483,8 +493,8 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 }
 .bg-fit{
 	background-repeat: no-repeat !important;
-    background-size: cover !important;
-    background-position: center !important;
+	background-size: cover !important;
+	background-position: center !important;
 }
 .bg-image-fit-50{
 	background-repeat: no-repeat !important;
