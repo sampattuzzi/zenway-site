@@ -1,7 +1,9 @@
 /****************************************TYPOGRAPHY ***************************************************/
+html {
+	font-size: calc(14px + 0.390625vw);
+}
 body{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 14px;
 	color: var(--text-light-color);
 	--primary-color: #45B1E8;
 	--secondary-color: #59A96A;
@@ -18,19 +20,19 @@ h1,h2,h3,h4,h5,h6{
 	text-transform: uppercase;
 }
 h1{
-	font-size: 3.998em;
+	font-size: 3.998rem;
 }
 h2{
-	font-size: 2.827em;
+	font-size: 2.827rem;
 }
 h3{
-	font-size: 1.999em;
+	font-size: 1.999rem;
 }
 h4{
-	font-size: 1.414em;
+	font-size: 1.414rem;
 }
 p{
-	font-size: 1em;
+	font-size: 1rem;
 	color: var(--text-light-color);
 
 }
@@ -47,7 +49,7 @@ p{
 
 .btn{
 	font-family: 'Montserrat', sans-serif;
-	font-size: 0.707em;
+	font-size: 0.707rem;
 	text-transform: uppercase;
 	font-weight: 600;
 	padding:12px 40px;
@@ -69,7 +71,7 @@ p{
 	vertical-align: middle;
 }
 .navbar{
-	background-color: var(--bg-dark-transparent-color);
+	background-color: var(--primary-color);
 	border:0px;
 	padding-top: 30px;
 	padding-bottom: 15px;
@@ -156,13 +158,35 @@ header{
 }
 /*******************************************SLIDER HOME***************************************************/
 .bg-hero {
-	background: url(../images/hero.png); 
+	background-image: url(../images/Day_With_Car_crop.jpeg); 
 	background-color: rgb(44, 44, 44);
 	background-position-y: bottom;
 	background-position-x: center;
 	background-repeat: no-repeat;
-    background-size: cover;
-	padding-bottom: calc(100vw * .20)
+    background-size: contain;
+	padding-bottom: calc(100vw * .3)
+}
+
+@media screen and (min-width: 812px) {
+	.bg-hero {
+		background-image: url(../images/Day_With_Car.jpg); 
+		background-size: cover;
+		padding-bottom: calc(100vw * .4)
+	}
+}
+
+@media screen and (min-width: 600px) {
+	.bg-hero {
+		padding-top: 60px;
+	}
+}
+@media screen and (max-width: 425px) {
+	.bg-hero h2 {
+		font-size: 2rem;
+	}
+	.bg-hero p {
+		font-size: 1.2rem;
+	}
 }
 
 .sliding-card-with-bottom-image .image-container img{
@@ -177,7 +201,7 @@ header{
     padding: 18rem 0;
 }
 .slider-para{
-	font-size: 1.414em;
+	font-size: 1.414rem;
 	font-family: 'Montserrat', sans-serif;
 }
 /*******************************************SLIDER***************************************************/
@@ -364,7 +388,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 	color: var(--primary-color);
 	text-transform: uppercase;
 }
-.footer-list-wiget .list-group-item{
+.footer-list-wiget .list-group-itrem{
 	border: 0px;
 	background-color: transparent!important;
 	padding-left: 0;
@@ -414,7 +438,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 .padding-top-120{
 	padding-top: 120px;
 }
-/*******************************************ELEMENT STYLES*******************************************/
+/*******************************************ELremENT STYLES*******************************************/
 .btn-accent,.btn-primary{
 	color: var(--text-light-color);
 }
@@ -452,7 +476,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 @media (min-width: 768px) {
     .row.vertical-align {
         display: flex;
-        align-items: center;
+        align-itrems: center;
     }
 }
 .shrink-wrapped-center{
@@ -562,9 +586,17 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 .bg-transparent{
 	background-color: transparent;
 }
+
 .bg-dark-transparent{
-	background-color: var(--bg-dark-transparent-color);
+	background-color: var(--text-light-color);
 }
+
+@media screen and (min-width: 767px) {
+	.bg-dark-transparent{
+		background-color: var(--bg-dark-transparent-color);
+	}
+}
+
 .max-width-100{
 	max-width: 100% !important;
 }
@@ -645,10 +677,10 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 		padding:4rem 15px;
 	}
 	.home-slider h2{
-		font-size: 1.999em;
+		font-size: 1.999rem;
 	}
 	.home-slider .slider-para{
-		font-size: 1em;
+		font-size: 1rem;
 	}
 	.padding-top-bottom-120{
 		padding-top: 75px;
@@ -699,10 +731,10 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 
 /***************************************OWL CAROUSEL ******************************************************************/
 
-.owl-theme .owl-controls .owl-page span{
+.owl-threme .owl-controls .owl-page span{
 	background: var(--text-white-color);
 }
-.owl-theme .owl-controls .owl-buttons div{
+.owl-threme .owl-controls .owl-buttons div{
 	font-size: 45px;
 	background-color: transparent;
 	color: var(--text-white-color);
