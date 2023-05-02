@@ -11,7 +11,7 @@ body{
 	--text-white-color: #F6F0ED;
 	--text-light-color: #5b5959;
 	--text-dark-color: #ebe7e4;
-	--bg-dark-transparent-color: #5b5959af;
+	--bg-dark-transparent-color: #5b5959d4;
 }
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Montserrat', sans-serif;
@@ -511,6 +511,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 }
 .img-responsive{
 	max-width:100%;
+	border-radius: 20px;
 }
 .text-violat{
 	color: #6b6a8b;
