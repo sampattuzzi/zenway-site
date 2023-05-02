@@ -1,6 +1,6 @@
 /****************************************TYPOGRAPHY ***************************************************/
 html {
-	font-size: calc(14px + 0.390625vw);
+	font-size: calc(14px + 0.12vw);
 }
 body{
 	font-family: 'Open Sans', sans-serif;
