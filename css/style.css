@@ -171,7 +171,6 @@ header{
 	.bg-hero {
 		background-image: url(../images/Day_With_Car.jpg); 
 		background-size: cover;
-		padding-bottom: calc(100vw * .4)
 	}
 }
 
@@ -388,7 +387,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 	color: var(--primary-color);
 	text-transform: uppercase;
 }
-.footer-list-wiget .list-group-itrem{
+.footer-list-wiget .list-group-item{
 	border: 0px;
 	background-color: transparent!important;
 	padding-left: 0;
@@ -438,7 +437,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 .padding-top-120{
 	padding-top: 120px;
 }
-/*******************************************ELremENT STYLES*******************************************/
+/*******************************************ELEMENT STYLES*******************************************/
 .btn-accent,.btn-primary{
 	color: var(--text-light-color);
 }
@@ -476,7 +475,7 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 @media (min-width: 768px) {
     .row.vertical-align {
         display: flex;
-        align-itrems: center;
+        align-items: center;
     }
 }
 .shrink-wrapped-center{
@@ -731,10 +730,10 @@ ul.social-list li a:hover, ul.social-list li a:focus{
 
 /***************************************OWL CAROUSEL ******************************************************************/
 
-.owl-threme .owl-controls .owl-page span{
+.owl-theme .owl-controls .owl-page span{
 	background: var(--text-white-color);
 }
-.owl-threme .owl-controls .owl-buttons div{
+.owl-theme .owl-controls .owl-buttons div{
 	font-size: 45px;
 	background-color: transparent;
 	color: var(--text-white-color);
