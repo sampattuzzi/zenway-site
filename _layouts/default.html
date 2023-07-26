@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>{{ page.title }}</title>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.svg">
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/owl.theme.css">
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Hotjar Tracking Code for https://zenway.app -->
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 3475555, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script>
+</head>
+
+<body>
+    <header id="home" class="background-primary">
+        <nav class="navbar navbar-default navbar-fixed-top navbar-expand-sm">
+            <div class="container">
+                <a class="" href="#"><span class="logo-wraper logo-white">
+                        <img src="images/logo-horizontal.svg" alt="Zenway">
+                    </span></a>
+                <a href="#contact-form"
+                    class="btn btn-accent border-none rounded-corner btn-navbar pull-right sm-display-none">Find Out
+                    More <span class="icon-on-button"><i class="ion-ios-email"></i></span></a>
+            </div><!-- /.container-fluid -->
+        </nav>
+    </header>
+    {{ content }}
+    <footer class="padding-top-120">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="footer-left-content">
+                        <div class="logo-colored">
+                            <img src="images/logo-horizontal-blue.svg" alt="">
+                        </div>
+                        <div class="content">
+                            <p class="margin-bottom-30 margin-top-30">A library of e-bikes and e-cargo bikes for hire in
+                                your building.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-8">
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-6">
+                            <div class="footer-list-wiget">
+                                <h4>Support</h4>
+                                <div class="list-group">
+                                    <a href="/faq" class="list-group-item">FAQ</a>
+                                    <a href="/contact" class="list-group-item">Contact US</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-6 col-sm-6">
+                            <div class="footer-list-wiget">
+                                <h4>About</h4>
+                                <div class="list-group">
+                                    <a href="/privacy" class="list-group-item">Privacy Policy</a>
+                                    <a href="/terms" class="list-group-item">Terms & Conditions</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr class="footer-divider">
+                <div class="copyright-cta">
+                    <p class="text-uppercase">All rights Reserved.</p>
+                </div>
+            </div>
+        </div>
+        <div class="footer-end-line"></div>
+    </footer>
+    <div id="scroll-top-div" class="scroll-top-div">
+        <div class="scroll-top-icon-container">
+            <i class="ion-ios-arrow-thin-up"></i>
+        </div>
+    </div>
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
