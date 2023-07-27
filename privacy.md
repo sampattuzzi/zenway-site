@@ -154,7 +154,7 @@ d) **Right to withdraw consent**. To the extent the processing of Your personal 
 
 e) **Right to object**. When Zenway is using legitimate interest (Article 6(1)(f) GDPR) as lawful basis for the processing, or if the processing concerns direct marketing, You have the right to object to the processing. In such case, we may be entitled to continue to process Your personal data if we can demonstrate a compelling legitimate interest to continue the processing operation.
 
-f) **Right to restriction. **Under certain circumstances, You have the right to request that the processing of Your personal data is restricted, so that the personal data only may be stored by Zenway and not processed for any other purposes.
+f) **Right to restriction.** Under certain circumstances, You have the right to request that the processing of Your personal data is restricted, so that the personal data only may be stored by Zenway and not processed for any other purposes.
 
 g) **Right to data portability**. If the processing is based on Your consent (Article 6(1)(a) GDPR) or a contract (Article 6(1)(b) GDPR) and the personal data has been obtained directly from You, You are entitled to request data portability, in which case you are entitled to receive Your personal data on a commonly used machine-readable format.
 
