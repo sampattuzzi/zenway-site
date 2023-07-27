@@ -99,7 +99,7 @@ Zenway will make every effort to make the Vehicle available at the start of your
 
 #### Booking a rental
 
-You have to use your personal account in the Zenway app to book a vehicle upfront starting a ride. Booking a ride implies choosing the type of vehicle you want to hire, rental starting date & time, rental ending date & time and paying for the rental duration.  \
+You have to use your personal account in the Zenway app to book a vehicle upfront starting a ride. Booking a ride implies choosing the type of vehicle you want to hire, rental starting date & time, rental ending date & time and paying for the rental duration.
 
 
 
@@ -149,7 +149,7 @@ You have to use the Vehicle in a safe manner and take necessary measures to avoi
 
 #### Proper use of services
 
-You shall return the Vehicle to vehicle in the same condition in which it was rented and the Vehicle must be fit for immediate usage by other users, given normal wear and tear and with the exclusion of low battery level.  You may never tamper with the Zenway App or Vehicles in any way and for any reason. You are responsible and liable for any damages suffered by Zenway relating to Your use of the Services, where you have not complied with the terms of this Agreement. This includes any indirect losses such as Zenway’s loss of income due to riding without payment, due to tampering of the Vehicle as well as a Vehicle being unfit for Use by other users. \
+You shall return the Vehicle to vehicle in the same condition in which it was rented and the Vehicle must be fit for immediate usage by other users, given normal wear and tear and with the exclusion of low battery level.  You may never tamper with the Zenway App or Vehicles in any way and for any reason. You are responsible and liable for any damages suffered by Zenway relating to Your use of the Services, where you have not complied with the terms of this Agreement. This includes any indirect losses such as Zenway’s loss of income due to riding without payment, due to tampering of the Vehicle as well as a Vehicle being unfit for Use by other users.
 
 
 
