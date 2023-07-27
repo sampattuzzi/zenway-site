@@ -205,17 +205,13 @@ Any outstanding payment of prices for the use of Vehicles by You or any fee char
 We at all times reserve the right to deactivate Your account where You have not paid or in any other way have breached this section 2.
 
 
-## 3. Liability
-
-Boilerplate for this?
-
-Force Majeure?
-
-
 ## 4. Property and Intellectual Property Rights
 
-Insert Boilerplate
-
+We are the owner or the licensee of all intellectual property rights in our Website, and in the material published on it. Those works are protected by copyright laws and treaties around the world and all such rights are reserved to us. 
+You may print off a copy, and may download extracts, of any page(s) from our Website for your personal use and you may draw the attention of others (for example within your company) to content posted on our Website.
+If you share content from our Website, our status (and the status of any identified contributors) as the authors of content on our Website must always be acknowledged.
+You must not use any part of the content on our Website for commercial purposes without obtaining a written and signed licence to do so from us or our licensors.
+If you print off, copy or download any part of our Website in breach of these Terms, your right to use our Website will cease immediately and you must, at our option, return or destroy any copies of the materials you have made. In addition, you understand we may be entitled to take legal action against you for breach of our copyright.
 
 ## 5. Privacy
 
@@ -229,11 +225,6 @@ This Agreement enters into force between You and Zenway the first time You use t
 Both You and Zenway may terminate this Agreement at any time, however, any rental still outstanding shall be carried through in accordance with this Agreement. Obligations arising from any breach of contract during the term of this Agreement shall not be affected by its termination.
 
 
-## 7. Disputes
-
-Insert Boilerplate
-
-
 ## 8. Contact
 
 Zenway can be contacted by email at support@zenway.app.
@@ -241,13 +232,9 @@ Zenway can be contacted by email at support@zenway.app.
 
 ## 9. Governing Law and Jurisdiction
 
-Insert Boilerplate
+If you are a consumer, please note that these Terms, their subject matter and their formation, are governed by English law. You and we both agree that the courts of England and Wales will have exclusive jurisdiction except that if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are resident of Scotland, you may also bring proceedings in Scotland.
 
-
-## 10. Entire Agreement and Modification
-
-Insert Boilerplate
-
+If you are a business, these terms of use, their subject matter and their formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales.
 
 ## 11. Withdrawal
 
