@@ -215,7 +215,7 @@ If you print off, copy or download any part of our Website in breach of these Te
 
 ## 5. Privacy
 
-Zenway processes Your personal data in accordance with the Zenway Privacy Policy, made available at https://www.zenway.app/privacy/.
+Zenway processes Your personal data in accordance with the Zenway Privacy Policy, made available at https://www.zenway.app/privacy.
 
 
 ## 6. Term and Termination
