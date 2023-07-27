@@ -40,7 +40,7 @@ In this Agreement, the following words, terms and phrases have the following mea
 * “**E-cargo bikes**” means Zenway’s shared electric scooters.
 * **“Designated Parking Zone”** means the marked parking spot provided in Your building where you are allowed to start and end a booking.
 * **“Building”** - The residential property where the Vehicles are located.
-* “**Privacy Policy**” means the privacy policy regarding Zenway’s processing of personal data made available by Zenway at [https://www.zenway.app/privacy/](https://www.zenway.app/privacy/).
+* “**Privacy Policy**” means the privacy policy regarding Zenway’s processing of personal data made available by Zenway at [https://www.zenway.app/privacy](https://www.zenway.app/privacy).
 * “**Vehicles**” is the collective term for Zenway’s e-scooters and e-bikes.
 * **“Ring Lock”** - The lock fixed to the rear frame of the bike which when engaged immobilises the rear wheel.
 * **“Chain”** - The provided chain that can be wrapped around locking point and locks into the Ring Lock.
