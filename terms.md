@@ -27,7 +27,7 @@ Conversion notes:
 
 # USER AGREEMENT AND TERMS AND CONDITIONS FOR USING ZENWAY SERVICES
 
-This agreement (the “**Agreement**”) sets forth the legally binding terms and conditions for Your use of the Services provided by Zenway Mobility Ltd, a company registered in England with company number 14879692 and with its registered office at 128 City Road, London, EC1V 2NX, UNITED KINGDOM (“**Zenway **or** We**”). The purpose of this Agreement is to regulate the Services provided by Zenway, which is to offer you (“**You**”) the use of electrical bikes and/or electrical cargo bikes after You have registered Yourself in the Zenway app.
+This agreement (the “**Agreement**”) sets forth the legally binding terms and conditions for Your use of the Services provided by Zenway Mobility Ltd, a company registered in England with company number 14879692 and with its registered office at 128 City Road, London, EC1V 2NX, UNITED KINGDOM (**“Zenway" or "We”**). The purpose of this Agreement is to regulate the Services provided by Zenway, which is to offer you (“**You**”) the use of electrical bikes and/or electrical cargo bikes after You have registered Yourself in the Zenway app.
 
 
 ## DEFINITIONS
@@ -40,7 +40,7 @@ In this Agreement, the following words, terms and phrases have the following mea
 * “**E-cargo bikes**” means Zenway’s shared electric scooters.
 * **“Designated Parking Zone”** means the marked parking spot provided in Your building where you are allowed to start and end a booking.
 * **“Building”** - The residential property where the Vehicles are located.
-* “**Privacy Policy**” means the privacy policy regarding Zenway’s processing of personal data made available by Zenway at [https://www.zenway.app/privacy/](https://www.zenway.app/privacy/).
+* “**Privacy Policy**” means the privacy policy regarding Zenway’s processing of personal data made available by Zenway at [https://www.zenway.app/privacy](https://www.zenway.app/privacy).
 * “**Vehicles**” is the collective term for Zenway’s e-scooters and e-bikes.
 * **“Ring Lock”** - The lock fixed to the rear frame of the bike which when engaged immobilises the rear wheel.
 * **“Chain”** - The provided chain that can be wrapped around locking point and locks into the Ring Lock.
@@ -99,7 +99,7 @@ Zenway will make every effort to make the Vehicle available at the start of your
 
 #### Booking a rental
 
-You have to use your personal account in the Zenway app to book a vehicle upfront starting a ride. Booking a ride implies choosing the type of vehicle you want to hire, rental starting date & time, rental ending date & time and paying for the rental duration.  \
+You have to use your personal account in the Zenway app to book a vehicle upfront starting a ride. Booking a ride implies choosing the type of vehicle you want to hire, rental starting date & time, rental ending date & time and paying for the rental duration.
 
 
 
@@ -149,7 +149,7 @@ You have to use the Vehicle in a safe manner and take necessary measures to avoi
 
 #### Proper use of services
 
-You shall return the Vehicle to vehicle in the same condition in which it was rented and the Vehicle must be fit for immediate usage by other users, given normal wear and tear and with the exclusion of low battery level.  You may never tamper with the Zenway App or Vehicles in any way and for any reason. You are responsible and liable for any damages suffered by Zenway relating to Your use of the Services, where you have not complied with the terms of this Agreement. This includes any indirect losses such as Zenway’s loss of income due to riding without payment, due to tampering of the Vehicle as well as a Vehicle being unfit for Use by other users. \
+You shall return the Vehicle to vehicle in the same condition in which it was rented and the Vehicle must be fit for immediate usage by other users, given normal wear and tear and with the exclusion of low battery level.  You may never tamper with the Zenway App or Vehicles in any way and for any reason. You are responsible and liable for any damages suffered by Zenway relating to Your use of the Services, where you have not complied with the terms of this Agreement. This includes any indirect losses such as Zenway’s loss of income due to riding without payment, due to tampering of the Vehicle as well as a Vehicle being unfit for Use by other users.
 
 
 
@@ -205,21 +205,17 @@ Any outstanding payment of prices for the use of Vehicles by You or any fee char
 We at all times reserve the right to deactivate Your account where You have not paid or in any other way have breached this section 2.
 
 
-## 3. Liability
-
-Boilerplate for this?
-
-Force Majeure?
-
-
 ## 4. Property and Intellectual Property Rights
 
-Insert Boilerplate
-
+We are the owner or the licensee of all intellectual property rights in our Website, and in the material published on it. Those works are protected by copyright laws and treaties around the world and all such rights are reserved to us. 
+You may print off a copy, and may download extracts, of any page(s) from our Website for your personal use and you may draw the attention of others (for example within your company) to content posted on our Website.
+If you share content from our Website, our status (and the status of any identified contributors) as the authors of content on our Website must always be acknowledged.
+You must not use any part of the content on our Website for commercial purposes without obtaining a written and signed licence to do so from us or our licensors.
+If you print off, copy or download any part of our Website in breach of these Terms, your right to use our Website will cease immediately and you must, at our option, return or destroy any copies of the materials you have made. In addition, you understand we may be entitled to take legal action against you for breach of our copyright.
 
 ## 5. Privacy
 
-Zenway processes Your personal data in accordance with the Zenway Privacy Policy, made available at https://www.zenway.app/privacy/.
+Zenway processes Your personal data in accordance with the Zenway Privacy Policy, made available at https://www.zenway.app/privacy.
 
 
 ## 6. Term and Termination
@@ -229,11 +225,6 @@ This Agreement enters into force between You and Zenway the first time You use t
 Both You and Zenway may terminate this Agreement at any time, however, any rental still outstanding shall be carried through in accordance with this Agreement. Obligations arising from any breach of contract during the term of this Agreement shall not be affected by its termination.
 
 
-## 7. Disputes
-
-Insert Boilerplate
-
-
 ## 8. Contact
 
 Zenway can be contacted by email at support@zenway.app.
@@ -241,13 +232,9 @@ Zenway can be contacted by email at support@zenway.app.
 
 ## 9. Governing Law and Jurisdiction
 
-Insert Boilerplate
+If you are a consumer, please note that these Terms, their subject matter and their formation, are governed by English law. You and we both agree that the courts of England and Wales will have exclusive jurisdiction except that if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are resident of Scotland, you may also bring proceedings in Scotland.
 
-
-## 10. Entire Agreement and Modification
-
-Insert Boilerplate
-
+If you are a business, these terms of use, their subject matter and their formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales.
 
 ## 11. Withdrawal
 
