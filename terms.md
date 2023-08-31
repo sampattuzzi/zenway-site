@@ -30,7 +30,7 @@ Conversion notes:
 
 ## USER AGREEMENT AND TERMS AND CONDITIONS FOR USING ZENWAY SERVICES
 
-These terms and conditions, together with all documents referenced within it (the “**Agreement**”) set forth the legally binding terms and conditions for Your use of the Services provided by Zenway Mobility Ltd, a company registered in England with company number 14879692 and with its registered office at 128 City Road, London, EC1V 2NX, UNITED KINGDOM (“**Zenway** or **We**”). The purpose of this Agreement is to regulate the Services provided by Zenway, which is to offer you (“**You**”) the use of electrical bikes or electrical bikes with a bike trailer after You have registered Yourself in the Zenway app.
+These terms and conditions, together with all documents referenced within it (the “**Agreement**”) set forth the legally binding terms and conditions for Your use of the Services provided by Zenway Mobility Ltd, a company registered in England with company number 14879692 and with its registered office at 128 City Road, London, EC1V 2NX, UNITED KINGDOM (“**Zenway**” or “**We**”). The purpose of this Agreement is to regulate the Services provided by Zenway, which is to offer you (“**You**”) the use of electrical bikes or electrical bikes with a bike trailer after You have registered Yourself in the Zenway app.
 
 
 
